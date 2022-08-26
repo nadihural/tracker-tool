@@ -1,0 +1,12 @@
+{
+  "displayName": "Tracking Tool",
+  "components": [
+    {
+      "name": "TrackingTool",
+      "manifest": "./src/components/TrackingTool/manifest.json"
+    }
+  ],
+  "author": "",
+  "description": "",
+  "logo": "./example-logo.png"
+}
